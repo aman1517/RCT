@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Home</title>
+    <link rel="stylesheet" href="./styles/main.css" />
+  </head>
+
+  <body>
+    <div id="container">
+      <div id="sidebar">
+        <h1>TechCrunch</h1>
+        <input type="text" />
+        <!--DO NOT CHANGE THIS ID's-->
+      </div>
+
+      <div id="main">
+        <!--DO NOT CHANGE THIS ID's-->
+      </div>
+    </div>
+  </body>
+</html>
+<script type="module">
+  let id;
+  import sidebar from "./components/sidebar.js";
+  let side = document.getElementById("sidebar");
+  sidebar.innerHTML = sidebar();
+
+  import { apiCall, appendArticles } from "./scripts/main.js";
+
+  let response = apiCall(
+    "https://gnews.io/api/v4/top-headlines?token=fa04c1acd3102e5442a949b1541e4ee4"
+  );
+
+  console.log(response);
+  let main = document.getElementById("main");
+  response.then((res) => {
+    appendArticles(res, main);
+
+
+  });
+</script>

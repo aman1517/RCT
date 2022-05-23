@@ -1,0 +1,1299 @@
+{
+    "Products":[
+        {
+            "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/uizgq56kjsixcm7zw5ym/sportswear-club-fleece-pullover-hoodie-tJQWGb.png",
+            "name": "Pullover Hoodie",
+            "brand": "Jordon",
+            "category": "Hoodie",
+            "color": "White",
+            "Price": "2895",
+            "size": ["S", "M", "L", "XL"],
+            "gender":"men"
+        },
+        {
+            "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/aa67513e-ad70-46c4-b393-d68aa9f5a5dc/paris-saint-germain-fleece-pullover-hoodie-smXzb8.png",
+            "name": "Men's Fleece Pullover Hoodie",
+            "category": " Hoodie",
+            "color": "Black",
+            "Price": "3995",
+            "size": ["S", "M", "L", "XL"],
+            "gender":"men"
+        },
+        {
+            "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/fd7c3e6d-d960-4886-8576-7171eaab80ab/standard-issue-basketball-hoodie-bSSBMV.png",
+            "name": "Men's Premium Basketball Hoodie",
+            "category": " Hoodie",
+            "brand": "Jordon",
+            "color": "Blue",
+            "Price": 5995,
+            "size": ["S", "M", "L", "XL"],
+            "gender":"men"
+        },
+        {
+            "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/8c62cfe8-6d86-416b-90b6-d50b8f13935c/repel-miler-running-jacket-Pprnvp.png",
+            "name": "Nike Repel Miler",
+            "category": "Jacket",
+            "color": "Blue",
+            "Price": 4695,
+            "size": ["S", "M", "L", "XL"],
+            "gender":"men"
+        },
+        {
+            "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/29cadabd-cbfc-4f81-82d0-ddd197253d6a/space-jam-a-new-legacy-basketball-t-shirt-GS3FtT.png",
+            "name": "Nike x Space Jam: A New Legacy",
+            "category": "T-Shirt",
+            "brand": "Jordon",
+            "color": "White",
+            "Price": 1795,
+            "size": ["S", "M", "L", "XL"],
+            "gender":"men"
+        },
+        {
+            "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/26270d1f-c0ae-444d-890e-5099263e69b3/sportswear-dri-fit-tech-pack-unlined-tracksuit-jacket-S8jRZd.png",
+            "name": "Nike Sportswear Dri-FIT Tech Pack",
+            "category": "Jacket",
+            "color": "Brown",
+            "Price": 7995,
+            "size": ["S", "M", "L", "XL"],
+            "gender":"men"
+        },
+        {
+            "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/fb09f6c8-d455-4d09-9638-1a07f2ba3ba6/air-fleece-hoodie-bqzS7r.png",
+            "name": "Men's Full-Zip Fleece Hoodie",
+            "category": "Hoodie",
+            "brand": "Jordon",
+            "color": "Black",
+            "Price": 4397,
+            "size": ["S", "M", "L", "XL"],
+            "gender":"men"
+        },
+
+        {
+            "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/16788f5a-13fc-4a2a-8d65-ef9d22b9e237/jordan-essentials-woven-jacket-TsW2BP.png",
+            "name": "Jordan Essentials",
+            "category": "Jacket",
+            "color": "Red",
+            "Price": 5495,
+            "size": ["S", "M", "L", "XL"],
+            "gender":"men"
+        },
+        {
+            "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/8c8bd0de-b76f-4011-8d98-50d35d373971/paris-saint-germain-logo-t-shirt-PkTBzc.png",
+            "name": "Men's Logo T-Shirt",
+            "category": "T-Shirt",
+            "brand": "Jordon",
+            "color": "Black",
+            "Price": 2195,
+            "size": ["S", "M", "L", "XL"],
+            "gender":"men"
+        },
+        {
+            "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/2ff79d28-c6fe-42e9-bb56-519635b1b026/los-angeles-lakers-city-edition-dri-fit-nba-swingman-jersey-W4m3x8.png",
+            "name": "Nike Dri-FIT NBA Swingman Jersey",
+            "category": "T-Shirt",
+            "color": "Blue",
+            "Price": 6495,
+            "size": ["S", "M", "L", "XL"],
+            "gender":"men"
+        },
+        {
+            "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/2cdf345c-7504-45b5-85b6-061a9aa882b2/story-pack-training-hoodie-mFzdfB.png",
+            "name": "Men's Full-Zip Training Hoodie",
+            "category": "Hoodie",
+            "brand": "Jordon",
+            "color": "Yellow",
+            "Price": 3995,
+            "size": ["S", "M", "L", "XL"],
+            "gender":"men"
+        },
+        {
+            "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/da0936a7-2f46-4964-92a1-dce53b85d3dc/liverpool-fc-football-jacket-LZZpMD.png",
+            "name": "Liverpool F.C.",
+            "category": "Jacket",
+            "color": "Orange",
+            "Price": 5495,
+            "size": ["S", "M", "L", "XL"],
+            "gender":"men"
+        },
+        {
+            "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/50a2d8bd-76ba-4910-81b0-652354485af6/pro-dri-fit-tight-fit-short-sleeve-top-wkRT07.png",
+            "name": "Nike Sportswear Alien Air ",
+            "category": "T-Shirt",
+            "brand": "Jordon",
+            "color": "Black",
+            "Price": 1795,
+            "size": ["S", "M", "L", "XL"],
+            "gender":"men"
+        },
+        {
+            "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/ce765ddc-3819-472b-b937-708ed1057001/sacai-parka-FHqnG3.png",
+            "name": "Nike x sacai",
+            "category": "Jacket",
+            "color": "Olive",
+            "Price": 16157,
+            "size": ["S", "M", "L", "XL"],
+            "gender":"men"
+        },
+        {
+            "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/325c681d-9d87-42b6-9804-bdca1ab8cacf/paris-saint-germain-strike-dri-fit-football-tracksuit-gX6BLR.png",
+            "name": "Paris Saint-Germain Strike",
+            "category": "Tracksuit",
+            "color": "Gray",
+            "Price": 6995,
+            "size": ["S", "M", "L", "XL"],
+            "gender":"men"
+        },
+        {
+            "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/2053adc6-6d9e-4765-8ebf-0f0dbc770ea0/dri-fit-academy-knit-football-tracksuit-ZKZwtz.png",
+            "name": "Nike Dri-FIT Academy",
+            "category": "Tracksuit",
+            "color": "Black",
+            "Price": 16999,
+            "size": ["S", "M", "L", "XL"],
+            "gender":"men"
+        },
+        {
+            "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/b369e7dd-847d-4b4b-a9c6-23c798a98e1b/dri-fit-training-t-shirt-DwTR13.png",
+            "name": "Men's Training T-Shirt",
+            "category": "T-Shirt",
+            "brand": "Jordon",
+            "color": "Brown",
+            "Price": 2195,
+            "size": ["S", "M", "L", "XL"],
+            "gender":"men"
+        },
+
+        {
+            "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/120f0c39-3952-42b8-9591-04a6cebb8045/sportswear-polo-9LgBf1.png",
+            "name": "Men's Polo",
+            "category": "T-Shirt",
+            "color": "Orange",
+            "Price": 1795,
+            "size": ["S", "M", "L", "XL"],
+            "gender":"men"
+        },
+
+        {
+            "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/030bfeb8-2b16-459a-85eb-7271d9a4108d/skepta-tracksuit-jacket-C4JxJX.png",
+            "name": "Nike x Skepta",
+            "category": "Tracksuit",
+            "brand": "Jordon",
+            "color": "Black",
+            "Price": 10995,
+            "size": ["S", "M", "L", "XL"],
+            "gender":"men"
+        },
+        {
+            "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/b54e07bf-763f-4068-80f0-403d9fd9393c/adv-run-division-running-tights-40fSxh.png",
+            "name": "Nike Therma-FIT ADV Run Division",
+            "category": "Trousers",
+            "brand": "NikeLab",
+            "color": "Gray",
+            "Price": 6296,
+            "size": ["S", "M", "L", "XL"],
+            "gender":"men"
+        },
+        {
+            "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/5d133339-a9e3-4256-bf7c-877b5ddcdbbb/los-angeles-lakers-showtime-city-edition-dri-fit-nba-short-sleeve-jacket-xTrHKH.png",
+            "name": "Men's Nike Dri-FIT NBA Short-SleeveT-Shirt ",
+            "category": "T-Shirt",
+            "color": "Yellow",
+            "Price": 7995,
+            "size": ["S", "M", "L", "XL"],
+            "gender":"men"
+        },
+
+        {
+            "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/bba89688-2b9f-4cb3-b780-7465a5701686/sportswear-unlined-utility-cargo-trousers-HR5W9B.png",
+            "name": "Nike Sportswear",
+            "category": "Trousers",
+            "brand": "NikeLab",
+            "color": "Black",
+            "Price": 3695,
+            "size": ["S", "M", "L", "XL"],
+            "gender":"men"
+        },
+        {
+            "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/218a8b5b-3540-4fa5-a2e7-9d2f888f248d/sportswear-t-shirt-tqcNzg.png",
+            "name": "Men's T-Shirt",
+            "category": "T-Shirt",
+            "color": "White",
+            "Price": 1795,
+            "size": ["S", "M", "L", "XL"],
+            "gender":"men"
+        },
+
+        {
+            "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/591e86aa-32d6-4325-ba31-71d6ce3fb0c5/sportswear-tech-fleece-joggers-69b5nC.png",
+            "name": "Nike Sportswear Tech Fleece",
+            "category": "Trousers",
+            "brand": "NikeLab",
+            "color": "White",
+            "Price": 8219,
+            "size": ["S", "M", "L", "XL"],
+            "gender":"men"
+        },
+        {
+            "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/3fef36e2-6c88-4ee0-a277-33d178ceee5f/fc-barcelona-strike-dri-fit-knit-football-pants-xsmS1z.png",
+            "name": "F.C. Barcelona Strike",
+            "category": "Trousers",
+            "color": "Black",
+            "Price": 3995,
+            "size": ["S", "M", "L", "XL"],
+            "gender":"men"
+        },
+        {
+            "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/645ad478-f702-4623-b174-5dbbae6d0e8c/sportswear-swoosh-tech-fleece-trousers-l3DTt8.png",
+            "name": "Nike Sportswear Swoosh Tech Fleece",
+            "category": "Trousers",
+            "brand": "NikeLab",
+            "color": "Gray",
+            "Price": 5995,
+            "size": ["S", "M", "L", "XL"],
+            "gender":"men"
+        },
+        {
+            "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/4e77db60-a5b6-4dd8-a04f-60012ee7bb8f/dri-fit-basketball-shorts-JJVwFv.png",
+            "name": "Nike Dri-FIT",
+            "category": "Shorts",
+            "color": "Black",
+            "Price": 3225,
+            "size": ["S", "M", "L", "XL"],
+            "gender":"men"
+        },
+        {
+            "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/18b95d21-beaf-4614-9bc3-6a375c24538d/dri-fit-flex-stride-trail-shorts-SMQt6t.png",
+            "name": "Nike Dri-FIT Flex Stride",
+            "category": "Shorts",
+            "brand": "NikeLab",
+            "color": "Yellow",
+            "Price": 3295,
+            "size": ["S", "M", "L", "XL"],
+            "gender":"men"
+        },
+        {
+            "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/9c7df46d-c91e-4fb2-a66e-366b85f5711a/dri-fit-uv-run-division-miler-long-sleeve-running-top-LhCZ1G.png",
+            "name": "Men's Long-Sleeve Running Top",
+            "category": "T-Shirt",
+            "color": "Black",
+            "Price": 2495,
+            "size": ["S", "M", "L", "XL"],
+            "gender":"men"
+        },
+        {
+            "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/d87aac85-990d-4dab-a8b2-e01a27983164/sportswear-tech-pack-cargo-trousers-D51Dcz.png",
+            "name": "Nike Sportswear Tech Pack",
+            "category": "Trousers",
+            "brand": "NikePro",
+            "color": "Brown",
+            "Price": 7495,
+            "size": ["S", "M", "L", "XL"],
+            "gender":"men"
+        },
+        {
+            "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/1cce9249-2da0-4ac4-9d28-74867e2c85e0/sportswear-t-shirt-dw59Bv.png",
+            "name": "Men's T-Shirt",
+            "category": "T-Shirt",
+            "color": "White",
+            "Price": 1795,
+            "size": ["S", "M", "L", "XL"],
+            "gender":"men"
+        },
+        {
+            "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/153bb803-19e5-4e19-9b37-7e4b5e9a5566/sportswear-sport-essentials-woven-flow-shorts-3zgS9g.png",
+            "name": "Nike Sportswear Sport Essentials+",
+            "category": "Shorts",
+            "brand": "NikePro",
+            "color": "Red",
+            "Price": 2795,
+            "size": ["S", "M", "L", "XL"],
+            "gender":"men"
+        },
+        {
+            "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/c7c21f4e-d6cd-40cd-869e-18195da035f0/sportswear-woven-trousers-JCmDBv.png",
+            "name": "Nike Sportswear",
+            "category": "Trousers",
+            "brand": "NikePro",
+            "color": "Black",
+            "Price": 3197,
+            "size": ["S", "M", "L", "XL"],
+            "gender":"men"
+        },
+        {
+            "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/efb1bed5-93d3-4d9b-ad2e-a4c92ab76483/dri-fit-camo-training-shorts-2qvkVl.png",
+            "name": "Nike Dri-FIT",
+            "category": "Shorts",
+            "color": "Gray",
+            "Price": 2395,
+            "size": ["S", "M", "L", "XL"],
+            "gender":"men"
+        },
+
+        {
+            "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/911b97e3-eb38-4aef-9013-7ff2a3cd7fef/sportswear-max90-t-shirt-qPnlmH.png",
+            "name": "Nike Sportswear Max90",
+            "category": "T-Shirt",
+            "brand": "NikePro",
+            "color": "Brown",
+            "Price": 2195,
+            "size": ["S", "M", "L", "XL"],
+            "gender":"men"
+        },
+        {
+            "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/a2775874-5c5e-45bd-bd94-cbe31331242e/liverpool-fc-strike-football-pants-9L3GJ8.png",
+            "name": "Liverpool F.C. Strike",
+            "category": "Trousers",
+            "color": "Red",
+            "Price": 11495,
+            "size": ["S", "M", "L", "XL"],
+            "gender":"men"
+        },
+        {
+            "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/2cdd4575-5dc5-4b6a-97a0-d6d5d4f03292/dri-fit-run-division-flex-stride-13cm-brief-lined-running-shorts-4l5Psr.png",
+            "name": "Nike Dri-FIT Run Division Flex Stride",
+            "category": "Shorts",
+            "brand": "NikePro",
+            "color": "Black",
+            "Price": 3295,
+            "size": ["S", "M", "L", "XL"],
+            "gender":"men"
+        },
+        {
+            "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/22593f2f-154f-4964-ad87-beb399ba751f/nikecourt-dri-fit-victory-tennis-polo-3dxdtm.png",
+            "name": "NikeCourt Dri-FIT Victory",
+            "category": "T-Shirt",
+            "color": "Blue",
+            "Price": 1795,
+            "size": ["S", "M", "L", "XL"],
+            "gender":"men"
+        },
+        {
+            "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/27c56498-f1a9-4ea9-9baa-990dfa4d41b5/backpack-KxKTNv.png",
+            "name": "Nike",
+            "category": "Backpack",
+            "brand": "NikePro",
+            "color": "Blue",
+            "Price": 4995,
+            "size": ["S", "M", "L", "XL"],
+            "gender":"men"
+        },
+        {
+            "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/c14889cd-1fde-4395-9f14-401ea8276df8/utility-heat-graphic-training-backpack-n8XJNC.png",
+            "name": "Nike Utility Heat",
+            "category": "Backpack",
+            "brand": "NikePro",
+            "color": "Black",
+            "Price": 3995,
+            "size": ["S", "M", "L", "XL"],
+            "gender":"men"
+        },
+
+
+
+
+
+
+        {
+            "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/bd85b857-b87f-4bdd-8c7a-51483a609692/dri-fit-swoosh-air-force-1-support-laced-sports-bra-vlcgfT.png",
+            "name": "Nike Dri-FIT Swoosh Air Force 1",
+            "category": "SportsBra",
+            "brand": "Jordon",
+            "color": "White",
+            "Price": 1590,
+            "size": ["S", "M", "L", "XL"],
+            "gender":"women"
+            
+        },
+        {
+            "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/a7f68ae6-59c4-4ed9-a725-00ecec16ff68/pro-365-13cm-shorts-Xtrrs6.png",
+            "name": "Nike Pro 365",
+            "category": "Shorts",
+            "brand": "Jordon",
+            "color": "Black",
+            "Price": 2000,
+            "size": ["S", "M", "L", "XL"],
+            "gender":"women"
+        },
+        {
+            "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/a86eed38-25b0-4ab0-acfe-1eb355b449e4/air-max-pre-day-shoes-gmmQLc.png",
+            "name": "Nike Air Max Pre-Day",
+            "category": "Shoe",
+            "color": "Blue",
+            "Price": 14495,
+            "size": [6, 7, 8, 9, 10],
+            "gender":"women"
+        },
+        {
+            "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/35b4b368-6e69-45d0-bc94-1b08e96e0d7b/flex-run-2021-road-running-shoes-HDXVTm.png",
+            "name": "Nike Flex Run 2021",
+            "category": "Shoe",
+            "color": "Red",
+            "Price": 9495,
+            "size": [6, 7, 8, 9, 10],
+            "gender":"women"
+        },
+        {
+            "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/d263149f-fbaf-4c9d-88ca-4a1ebe6c420f/sportswear-icon-clash-woven-wide-leg-trousers-shCw2G.png",
+            "name": "Nike Sportswear Icon Clash",
+            "category": "Trousers",
+            "brand": "Jordon",
+            "color": "White",
+            "Price": 5490,
+            "size": ["S", "M", "L", "XL"],
+            "gender":"women"
+        },
+
+        {
+            "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/3da3eacc-a092-4793-8e6e-735d52e5b5d4/air-max-ap-shoe-twPB9x.png",
+            "name": "Nike Air Max AP",
+            "category": "Shoe",
+            "color": "Pink",
+            "Price": 8495,
+            "size": [6, 7, 8, 9, 10],
+            "gender":"women"
+        },
+        {
+            "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/30c34ec4-f51e-442a-aa68-c85f4a4e79ac/dri-fit-swoosh-icon-clash-support-1-piece-pad-printed-sports-bra-qd2H1j.png",
+            "name": "Nike Dri-FIT Swoosh Icon Clash",
+            "category": "SportsBra",
+            "brand": "Jordon",
+            "color": "Gray",
+            "Price": 3519,
+            "size": ["S", "M", "L", "XL"],
+            "gender":"women"
+        },
+        {
+            "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/37d58ae7-b41b-4adc-9b0c-28bc827db057/sportswear-icon-clash-mock-long-sleeve-top-TlH8QM.png",
+            "name": "Nike Sportswear Icon Clash",
+            "category": "Top",
+            "brand": "NikePro",
+            "color": "Blue",
+            "Price": 1999,
+            "size": ["S", "M", "L", "XL"],
+            "gender":"women"
+        },
+        {
+            "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/b5ad81cf-9e9b-4c29-9114-e8a8dea8ed7a/nikecourt-legacy-serena-design-crew-shoes-3n9JGl.png",
+            "name": "NikeCourt Legacy Serena Design Crew",
+            "category": "Shoe",
+            "color": "Cream",
+            "Price": 6495,
+            "size": [6, 7, 8, 9, 10],
+            "gender":"women"
+        },
+        {
+            "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/7df7e2e9-d4f0-4e5a-9884-c5d0f561f8b2/swoosh-ultrabreathe-support-padded-sports-bra-GX5mln.png",
+            "name": "Nike Swoosh UltraBreathe",
+            "category": "SportsBra",
+            "brand": "Jordon",
+            "color": "Cream",
+            "Price": 2250,
+            "size": ["S", "M", "L", "XL"],
+            "gender":"women"
+        },
+        {
+            "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/i1-f1f1618e-4686-4efe-bafc-973e72e8b9a2/aqua-rift-shoes-C3VX3v.png",
+            "name": "Nike Aqua Rift",
+            "category": "Shoe",
+            "color": "White",
+            "Price": 9495,
+            "size": [6, 7, 8, 9, 10],
+            "gender":"women"
+        },
+        {
+            "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/a887d100-9f0b-40d1-8def-7a11824f2f8b/sportswear-woven-trousers-5SNDjM.png",
+            "name": "Nike Sportswear",
+            "category": "Trousers",
+            "brand": "Jordon",
+            "color": "Blue",
+            "Price": 2795,
+            "size": ["S", "M", "L", "XL"],
+            "gender":"women"
+        },
+        {
+            "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/0f3b5329-af6b-47cf-a9ee-de5ee81f1003/air-force-1-fontanka-shoes-LtBCnn.png",
+            "name": "Nike Air Force 1 Fontanka",
+            "category": "Shoe",
+            "color": "Cream",
+            "Price": 10495,
+            "size": [6, 7, 8, 9, 10],
+            "gender":"women"
+        },
+        {
+            "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/99b5746b-3441-456d-80e3-a628a115b4d4/air-force-1-pixel-shoes-7wnvvn.png",
+            "name": "Nike Air Force 1 Pixel",
+            "category": "Shoe",
+            "color": "Olive",
+            "Price": 8495,
+            "size": [6, 7, 8, 9, 10],
+            "gender":"women"
+        },
+        {
+            "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/ccca2586-358d-46a2-850f-8b5aab8b62c2/air-velour-jacket-dvCWBC.png",
+            "name": "Nike Air",
+            "category": "Jacket",
+            "brand": "NikeLab",
+            "color": "Cream",
+            "Price": 4459,
+            "size": ["S", "M", "L", "XL"],
+            "gender":"women"
+        },
+        {
+            "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/fd15d125-76ca-441d-8b6a-57c0a081116a/dri-fit-one-mid-rise-printed-leggings-NkRcqk.png",
+            "name": "Nike Dri-FIT One",
+            "category": "Trousers",
+            "brand": "NikeLab",
+            "color": "Brown",
+            "Price": 3950,
+            "size": ["S", "M", "L", "XL"],
+            "gender":"women"
+        },
+        {
+            "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/05a53af7-c641-43e4-805b-c7f89e569fb0/air-velour-mid-rise-trousers-6lgdlP.png",
+            "name": "Nike Air",
+            "category": "Trousers",
+            "color": "Brown",
+            "Price": 4950,
+            "size": ["S", "M", "L", "XL"],
+            "gender":"women"
+        },
+        {
+            "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/5e266a82-cc5e-48f2-becf-1b88776c991b/zoom-fly-4-road-running-shoes-HMG6C0.png",
+            "name": "Nike Zoom Fly 4",
+            "category": "Shoe",
+            "color": "Black",
+            "Price": 15495,
+            "size": [6, 7, 8, 9, 10],
+            "gender":"women"
+        },
+        {
+            "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/d4d3a055-d6e8-40c7-8cdc-f9e421008a44/10k-2-in-1-running-shorts-QBd76d.png",
+            "name": "Nike 10K",
+            "category": "Shorts",
+            "brand": "NikeLab",
+            "color": "Black",
+            "Price": 2249,
+            "size": ["S", "M", "L", "XL"],
+            "gender":"women"
+        },
+        {
+            "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/56cbf3f1-1004-468d-90c8-0c1738e2b7c2/dunk-high-lx-shoes-4gJ041.png",
+            "name": "Nike Dunk High LX",
+            "category": "Shoe",
+            "color": "Cream",
+            "Price": 11495,
+            "size": [6, 7, 8, 9, 10],
+            "gender":"women"
+        },
+        {
+            "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/70a0f845-1f2e-433e-b2b5-11455817442f/jordan-heritage-t-shirt-4nJvCx.png",
+            "name": "Jordan Heritage",
+            "category": "Top",
+            "brand": "NikeLab",
+            "color": "Blue",
+            "Price": 2508,
+            "size": ["S", "M", "L", "XL"],
+            "gender":"women"
+        },
+        {
+            "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/aee896ce-0062-42bd-bfad-4ae4ab086219/swoosh-run-running-jacket-N6QMRT.png",
+            "name": "Nike Swoosh Run",
+            "category": "Jacket",
+            "brand": "NikeLab",
+            "color": "Olive",
+            "Price": 5019,
+            "size": ["S", "M", "L", "XL"],
+            "gender":"women"
+        },
+        {
+            "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/b72d5987-443c-4a20-ba27-f98e711c5ab1/dunk-low-se-shoes-zmKqzw.png",
+            "name": "Nike Dunk",
+            "category": "Shoe",
+            "color": "White",
+            "Price": "₹18,495",
+            "size": ["S", "M", "L", "XL"],
+            "gender":"women"
+
+        },
+        {
+            "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/64a37e1a-69b2-4f55-8189-6cfe94158324/dri-fit-indy-light-support-padded-v-neck-sports-bra-P6hxlh.png",
+            "name": "Nike Dri-FIT Indy",
+            "category": "SportsBra",
+            "brand": "NikePro",
+            "color": "Blue",
+            "Price": 1890,
+            "size": ["S", "M", "L", "XL"],
+            "gender":"women"
+        },
+        {
+            "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/abea3bf7-0dc8-4f4f-aff1-02e7e3b6b369/jordan-new-classics-capsule-2-top-KRJqcx.png",
+            "name": "Jordan New Classics Capsule 2.0",
+            "category": "Jacket",
+            "brand": "NikePro",
+            "color": "Black",
+            "Price": 8999,
+            "size": ["S", "M", "L", "XL"],
+            "gender":"women"
+        },
+        {
+            "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/5d4f847a-9877-4b71-99b4-4554c4246c6d/jordan-fleece-all-over-printed-trousers-5sfqN3.png",
+            "name": "Women's Fleece All-over Printed",
+            "category": "Trousers",
+            "color": "Red",
+            "Price": 3500,
+            "size": ["S", "M", "L", "XL"],
+            "gender":"women"
+        },
+        {
+            "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/7daa139d-91eb-43f2-a9b8-fb8cd81607bd/sportswear-boxy-t-shirt-GNXQld.png",
+            "name": "Nike Sportswear",
+            "brand": "NikePro",
+            "category": "Top",
+            "color": "White",
+            "Price": 1295,
+            "size": ["S", "M", "L", "XL"],
+            "gender":"women"
+        },
+        {
+            "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/9f1978b5-1115-406d-ac3a-236c54e8be8a/sportswear-crew-Rk7hCz.png",
+            "name": "Nike Sportswear Femme",
+            "category": "Top",
+            "brand": "NikePro",
+            "color": "Lavender",
+            "Price": 4109,
+            "size": ["S", "M", "L", "XL"],
+            "gender":"women"
+        },
+        {
+            "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/gffibzzmtmhe5ldjkiwv/everyday-lightweight-training-ankle-socks-ShtJfk.png",
+            "name": "Nike Everyday Lightweight",
+            "category": "Socks",
+            "color": "Black",
+            "Price": "595",
+            "size": ["S", "M", "L", "XL"],
+            "gender":"women"
+
+        },
+        {
+            "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/22535aa1-9c51-48f1-bca3-e584dd26a02c/air-everyday-plus-lightweight-training-no-show-socks-GFxTKh.png",
+            "name": "Nike Air Everyday Plus Lightweight",
+            "category": "Socks",
+            "color": "Gray",
+            "Price": 795,
+            "size": ["S", "M", "L", "XL"],
+            "gender":"women"
+
+        },
+
+
+
+
+
+
+
+
+        {
+            "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/9ba28c62-18e2-4562-a610-b91f38b9cc6f/air-older-crop-jacket-8H9nnC.png",
+            "gender": "Girls",
+            "name": "Nike Air",
+            "category": "Jacket",
+            "color": "Black",
+            "Price": "3117",
+            "size": ["S", "M", "L", "XL"]
+
+        },
+
+        {
+            "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/1aa3abc4-692e-466b-b985-570a178f25ef/air-force-1-older-shoes-w6PsF3.png",
+            "gender": "Boys",
+            "name": "Nike Air Force 1",
+            "category": "Shoe",
+            "color": "White",
+            "Price": "5995",
+            "size": ["S", "M", "L", "XL"]
+
+        },
+        {
+            "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/0661fc02-dacd-45b1-9a3f-5e9fdcd35f30/air-older-leggings-lxNfH1.png",
+            "gender": "Girls",
+            "name": "Nike Air",
+            "category": "Leggings",
+            "color": "Black",
+            "Price": "1895",
+            "size": ["S", "M", "L", "XL"]
+
+        },
+        {
+            "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/209aa5f6-e1cf-442a-9935-f640af11e77a/trophy-older-sports-bra-Hwg6v0.png",
+            "gender": "Girls",
+            "name": "Nike Top",
+            "category": "Top",
+            "color": "Blue",
+            "Price": "877",
+            "size": ["S", "M", "L", "XL"]
+
+        },
+        {
+            "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/948667b3-27c1-4433-9e42-269862601e80/dri-fit-indy-older-sports-bra-BXTNd7.png",
+            "gender": "Girls",
+            "name": "Nike Dri-FIT Indy",
+            "category": "Top",
+            "color": "Orange",
+            "Price": "1295",
+            "size": ["S", "M", "L", "XL"]
+
+        },
+        {
+            "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/93d2b3aa-3024-4cda-9c70-a36acb2382c3/air-force-1-lv8-older-shoes-KKcPKZ.png",
+            "gender": "Girls",
+            "name": "Nike Air Force 1 LV8",
+            "category": "Shoe",
+            "color": "White",
+            "Price": "6495",
+            "size": ["S", "M", "L", "XL"]
+
+        },
+        {
+            "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/9bbbbc09-cfb4-4de2-b0b1-3d1d3ff5aefc/crossover-older-basketball-jacket-kc3hmV.png",
+            "gender": "Boys",
+            "name": "Nike Crossover",
+            "category": "Jacket",
+            "color": "Blue",
+            "Price": "3695",
+            "size": ["S", "M", "L", "XL"]
+
+        },
+        {
+            "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/a6f23b13-d617-4111-83bf-3917529b060c/dri-fit-kylian-mbappe-older-football-pants-1jRmhH.png",
+            "gender": "Boys",
+            "name": "Nike Dri-FIT Kylian Mbappé",
+            "category": "Pants",
+            "color": "Black",
+            "Price": "2795",
+            "size": ["S", "M", "L", "XL"]
+
+        },
+        {
+            "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/73af1a96-b3a7-443f-9ed7-ea82fcfeedcd/jr-mercurial-superfly-8-academy-km-mg-younger-older-multi-ground-football-boot-n67H03.png",
+            "gender": "Boys",
+            "name": "Nike Jr. Mercurial Superfly 8 Academy KM MG",
+            "category": "Shoe",
+            "color": "Blue",
+            "Price": "6995",
+            "size": ["S", "M", "L", "XL"]
+
+        },
+        {
+            "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/41a302c8-e177-4963-8e69-72ec150e6372/kyrie-infinity-se-older-basketball-shoes-q3V9WM.png",
+            "gender": "Boys",
+            "name": "Kyrie Infinity SE",
+            "category": "Shoe",
+            "color": "White",
+            "Price": "7995",
+            "size": ["S", "M", "L", "XL"]
+
+        },
+        {
+            "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/3cbf7850-8b59-41c5-8e3f-0a8c121b6f07/air-max-2021-older-shoes-dRthcp.png",
+            "gender": "Boys",
+            "name": "Nike Air Max 2021",
+            "category": "Shoe",
+            "color": "Black",
+            "Price": "9995",
+            "size": ["S", "M", "L", "XL"]
+
+        },
+        {
+            "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/68723e6a-f437-4c6d-94ab-479cb6dd91ac/sportswear-older-tracksuit-1G4VD8.png",
+            "gender": "Boys",
+            "name": "Nike Sportswear",
+            "category": "Shoe",
+            "color": "Red",
+            "Price": "2995",
+            "size": ["S", "M", "L", "XL"]
+
+        },
+        {
+            "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/67201e2f-3900-48f5-954f-73507a215b33/dri-fit-academy-older-knit-football-tracksuit-VXgxs4.png",
+            "gender": "Boys",
+            "name": "Nike Dri-FIT Academy",
+            "category": "Jacket",
+            "color": "Black",
+            "Price": "2954",
+            "size": ["S", "M", "L", "XL"]
+
+        },
+        {
+            "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/b1435e15-5742-4c92-83a7-ef88767f43a2/sportswear-older-t-shirt-v1lNRd.png",
+            "gender": "Boys",
+            "name": "Nike Sportswear",
+            "category": "T-Shirt",
+            "color": "White",
+            "Price": "1195",
+            "size": ["S", "M", "L", "XL"]
+
+        },
+        {
+            "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/0d582f5e-594c-481b-b933-2d339e28f176/older-short-sleeve-training-top-cCBkVT.png",
+            "gender": "Boys",
+            "name": "Short-Sleeve Training Top",
+            "category": "T-Shirt",
+            "color": "Black",
+            "Price": "1395",
+            "size": ["S", "M", "L", "XL"]
+
+        },
+        {
+            "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/8b719283-54e1-4181-afee-4d3ff78d50bc/dri-fit-older-basketball-shorts-W2N8zs.png",
+            "gender": "Boys",
+            "name": "Nike Dri-FIT",
+            "category": "Shorts",
+            "color": "Red",
+            "Price": "1192",
+            "size": ["S", "M", "L", "XL"]
+
+        },
+        {
+            "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/23913cc8-b01d-4a85-92a0-32a7b68311d8/jr-phantom-gt2-academy-tf-younger-older-football-shoe-8959hr.png",
+            "gender": "Boys",
+            "name": "Nike Jr. Phantom GT2 Academy TF",
+            "category": "Shoe",
+            "color": "Blue",
+            "Price": "5495",
+            "size": ["S", "M", "L", "XL"]
+
+        },
+        {
+            "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/7d0059f8-a2f0-4afd-bee4-38c6fa266fde/dri-fit-trophy-older-graphic-training-top-klrNC8.png",
+            "gender": "Boys",
+            "name": "Nike Dri-FIT Trophy",
+            "category": "T-Shirt",
+            "color": "Black",
+            "Price": "1111",
+            "size": ["S", "M", "L", "XL"]
+
+        },
+        {
+            "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/d781a2ef-2ece-47bc-b2e2-e6815a7b0287/brasilia-jdi-backpack-MKLkXg.png",
+            "gender": "Girls",
+            "name": "Nike Brasilia JDI",
+            "category": "Bag",
+            "color": "Black",
+            "Price": "1117"
+
+
+        },
+        {
+            "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/12b63b8b-d34a-4245-a3e2-9de0e785c81b/sportswear-older-t-shirt-cGzmBz.png",
+            "gender": "Girls",
+            "name": "Nike Sportswear",
+            "category": "T-Shirt",
+            "color": "Blue",
+            "Price": "1195",
+            "size": ["S", "M", "L", "XL"]
+
+        },
+        {
+            "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/22afa9cf-1d5f-405d-9857-98d2ac3f2195/classic-backpack-V8xJFl.png",
+            "gender": "Boys",
+            "name": "Nike Classic",
+            "category": "Bag",
+            "color": "Gray",
+            "Price": "1597"
+
+
+        },
+        {
+            "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/uflbfhiupfs5hyuem0xx/heritage86-adjustable-hat-qZrx4v.png",
+            "gender": "Boys",
+            "name": "Nike Heritage86",
+            "category": "Cap",
+            "color": "Black",
+            "Price": "795"
+
+
+        },
+        {
+            "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/d4f92a1a-c554-4b38-a8e9-fead2ece7ec9/backpack-NJ1f9l.png",
+            "gender": "Boys",
+            "name": "Nike",
+            "category": "Bag",
+            "color": "Black",
+            "Price": "1995"
+
+
+        },
+        {
+            "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/f1873eef-b2a2-4362-94c9-bb9adf4986b7/sportswear-older-t-shirt-CTtrc0.png",
+            "gender": "Girls",
+            "name": "Nike Sportswear",
+            "category": "T-Shirt",
+            "color": "Cream",
+            "Price": "1395",
+            "size": ["S", "M", "L", "XL"]
+
+        },
+        {
+            "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/cd678bb6-6a83-4270-b150-38e138998dfd/sportswear-favourites-older-swoosh-leggings-R5Dp6H.png",
+            "gender": "Girls",
+            "name": "Nike Sportswear Favourites",
+            "category": "Leggings",
+            "color": "Red",
+            "Price": "1295",
+            "size": ["S", "M", "L", "XL"]
+
+        },
+        {
+            "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/6e04a75a-7c53-4f1c-abfd-46400627c648/sportswear-older-french-terry-pullover-hoodie-J1DPxS.png",
+            "gender": "Girls",
+            "name": "Nike Sportswear",
+            "category": "Hoodie",
+            "color": "Pink",
+            "Price": "3295",
+            "size": ["S", "M", "L", "XL"]
+
+        },
+        {
+            "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/vivpytgbtjpiigw7srck/sportswear-club-older-hoodie-NPFmDM.png",
+            "gender": "Boys",
+            "name": "Nike Sportswear Club",
+            "category": "Hoodie",
+            "color": "Gray",
+            "Price": "2295",
+            "size": ["S", "M", "L", "XL"]
+
+        },
+        {
+            "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/d7f38772-b885-4b61-963e-9f3424ca9c7f/dunk-high-older-shoe-5g3xvG.png",
+            "gender": "Boys",
+            "name": "Nike Dunk High",
+            "category": "Shoe",
+            "color": "Black",
+            "Price": "2285",
+            "size": ["S", "M", "L", "XL"]
+
+        },
+        {
+            "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/gk9wlholkiw3u7v61lnk/dri-fit-older-short-sleeve-training-top-nMmPXp.png",
+            "gender": "Boys",
+            "name": "Nike Dri-FIT",
+            "category": "T-Shirt",
+            "color": "Black",
+            "Price": "895",
+            "size": ["S", "M", "L", "XL"]
+
+        },
+        {
+            "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/8d2c081b-ac13-44d4-9ca3-1a70ee605634/force-1-le-younger-shoe-rg3gD7.png",
+            "gender": "Boys",
+            "name": "Nike Force 1 LE",
+            "category": "Shoe",
+            "color": "Black",
+            "Price": "4499",
+            "size": ["S", "M", "L", "XL"]
+
+        }, {
+            "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/4c5b8623-7df9-4258-96b3-9340a51721fb/older-short-sleeve-football-top-qKnsBF.png",
+            "gender": "Boys",
+            "name": "Nike",
+            "category": "T-Shirt",
+            "color": "Blue",
+            "Price": "1195",
+            "size": ["S", "M", "L", "XL"]
+
+        }, {
+            "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/d7acc9d9-f5a1-4696-84fa-685ee69dd37f/air-more-uptempo-older-shoes-44M0ct.png",
+            "gender": "Boys",
+            "name": "Nike Air More Uptempo",
+            "category": "Shoe",
+            "color": "Red",
+            "Price": "9995",
+            "size": ["S", "M", "L", "XL"]
+
+        },
+
+
+
+
+
+
+
+        {
+            "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/1aa3abc4-692e-466b-b985-570a178f25ef/air-force-1-older-shoes-w6PsF3.png",
+            "gender": "Boys",
+            "brand": "Nike By You",
+            "name": "Nike Air Force 1",
+            "color": "White",
+            "Price": 3117,
+            "size": [6, 7, 8, 9, 10]
+
+        },
+        {
+            "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/93d2b3aa-3024-4cda-9c70-a36acb2382c3/air-force-1-lv8-older-shoes-KKcPKZ.png",
+            "gender": "Girls",
+            "brand": "Nike By You",
+            "name": "Nike Air Force 1 LV8",
+            "color": "White",
+            "Price": 6495,
+            "size": [6, 7, 8, 9, 10]
+
+        },
+        {
+            "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/73af1a96-b3a7-443f-9ed7-ea82fcfeedcd/jr-mercurial-superfly-8-academy-km-mg-younger-older-multi-ground-football-boot-n67H03.png",
+            "gender": "Boys",
+            "brand": "Nike By You",
+            "name": "Nike Jr. Mercurial Superfly 8 Academy",
+            "color": "Blue",
+            "Price": 6995,
+            "size": [6, 7, 8, 9, 10]
+
+        },
+        {
+            "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/41a302c8-e177-4963-8e69-72ec150e6372/kyrie-infinity-se-older-basketball-shoes-q3V9WM.png",
+            "gender": "Boys",
+            "brand": "Nike By You",
+            "name": "Kyrie Infinity SE",
+            "color": "White",
+            "Price": 7995,
+            "size": [6, 7, 8, 9, 10]
+
+        },
+        {
+
+            "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/3cbf7850-8b59-41c5-8e3f-0a8c121b6f07/air-max-2021-older-shoes-dRthcp.png",
+            "gender": "Boys",
+            "brand": "Nike By You",
+            "name": "Nike Air Max 2021",
+            "color": "Black",
+            "Price": 9995,
+            "size": [6, 7, 8, 9, 10]
+
+        },
+        {
+            "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/41a302c8-e177-4963-8e69-72ec150e6372/kyrie-infinity-se-older-basketball-shoes-q3V9WM.png",
+            "gender": "Girls",
+            "brand": "Nike By You",
+            "name": "Nike Air Force 1 LV8",
+            "color": "White",
+            "Price": 6495,
+            "size": [6, 7, 8, 9, 10]
+
+        },
+        {
+            "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/68723e6a-f437-4c6d-94ab-479cb6dd91ac/sportswear-older-tracksuit-1G4VD8.png",
+            "gender": "Boys",
+            "brand": "Nike By You",
+            "name": "Nike Sportswear",
+            "color": "Red",
+            "Price": 2995,
+            "size": [6, 7, 8, 9, 10]
+
+        },
+        {
+            "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/23913cc8-b01d-4a85-92a0-32a7b68311d8/jr-phantom-gt2-academy-tf-younger-older-football-shoe-8959hr.png",
+            "gender": "Boys",
+            "brand": "Nike By You",
+            "name": "Nike Jr. Phantom GT2 Academy TF",
+            "color": "Blue",
+            "Price": 5495,
+            "size": [6, 7, 8, 9, 10]
+
+        },
+        {
+            "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/d7f38772-b885-4b61-963e-9f3424ca9c7f/dunk-high-older-shoe-5g3xvG.png",
+            "gender": "Boys",
+            "brand": "Nike By You",
+            "name": "Nike Dunk High",
+            "color": "Black",
+            "Price": 2285,
+            "size": [6, 7, 8, 9, 10]
+
+        },
+        {
+            "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/8d2c081b-ac13-44d4-9ca3-1a70ee605634/force-1-le-younger-shoe-rg3gD7.png",
+            "gender": "Boys",
+            "brand": "Nike By You",
+            "name": "Nike Force 1 LE",
+            "color": "Black",
+            "Price": 4499,
+            "size": [6, 7, 8, 9, 10]
+
+        },
+        {
+            "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/d7acc9d9-f5a1-4696-84fa-685ee69dd37f/air-more-uptempo-older-shoes-44M0ct.png",
+            "gender": "Boys",
+            "brand": "Nike By You",
+            "name": "Nike Air More Uptempo",
+            "color": "Red",
+            "Price": 9995,
+            "size": [6, 7, 8, 9, 10]
+
+        },
+        {
+            "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/71dd419c-30b1-4377-9187-9f62f4237691/air-zoom-pegasus-38-airnathan-bell-road-running-shoes-ndNHTP.png",
+            "name": "Nike Air Zoom Pegasus 38 A.I.R.Nathan Bell",
+            "brand": "Nike By You",
+            "gender": "Male",
+            "color": "Blue",
+            "Price": 11495,
+            "size": [6, 7, 8, 9, 10]
+
+        },
+        {
+            "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/bf766eed-65b0-4c10-b922-4570192d5aa6/air-pegasus-83-shoes-dRccxf.png",
+            "name": "Nike Air Pegasus 83 Premium",
+            "brand": "Nike By You",
+            "gender": "Male",
+            "color": "White",
+            "Price": 2195,
+            "size": [6, 7, 8, 9, 10]
+
+        },
+        {
+            "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/769b0671-49af-408d-8de0-56e2640634fe/air-huarache-le-shoes-wCfbvV.png",
+            "name": "Nike Air Huarache LE",
+            "brand": "Nike By You",
+            "gender": "Male",
+            "color": "Brown",
+            "Price": 10295,
+            "size": [6, 7, 8, 9, 10]
+
+        },
+        
+        {
+            "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/cd6e10f8-d3bc-485b-ab2c-d49617a4e3bb/air-max-dawn-shoe-gq9GGH.png",
+            "name": "Nike Air Max Dawn",
+            "brand": "Nike By You",
+            "gender": "Male",
+            "color": "Blue",
+            "Price": 7995,
+            "size": [6, 7, 8, 9, 10]
+
+        },
+        {
+            "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/4f37fca8-6bce-43e7-ad07-f57ae3c13142/air-force-1-07-shoe-WrLlWX.png",
+            "name": "Nike Air Force 1 '07",
+            "brand": "Nike By You",
+            "gender": "Male",
+            "color": "White",
+            "Price": 7495,
+            "size": [6, 7, 8, 9, 10]
+
+        },
+        {
+            "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/57818374-f0eb-4213-b271-e6ed0b21347d/air-max-1-patta-shoes-jS3GnH.png",
+            "name": "Nike Air Force 1 '07 LV8",
+            "brand": "Nike By You",
+            "gender": "Girls",
+            "color": "Black",
+            "Price": 8295,
+            "size": [6, 7, 8, 9, 10]
+
+        },
+        {
+            "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/57818374-f0eb-4213-b271-e6ed0b21347d/air-max-1-patta-shoes-jS3GnH.png",
+            "name": "Nike Air Max 1 x Patta",
+            "brand": "Nike By You",
+            "gender": "Male",
+            "color": "Red",
+            "Price": 1549,
+            "size": [6, 7, 8, 9, 10]
+
+        },
+        {
+            "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/1ab12b53-6dd3-4e10-bd75-6624321574c2/zoom-004-mmw-shoe-f9gPnw.png",
+            "name": "Nike Zoom 004 X MMW",
+            "brand": "Nike By You",
+            "gender": "Male",
+            "color": "Black",
+            "Price": 18495,
+            "size": [6, 7, 8, 9, 10]
+
+        },
+        {
+            "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/8172fa79-2821-41ed-951d-7c316f958a09/waffle-one-se-shoe-8Qm3Hr.png",
+            "name": "Nike Waffle One SE",
+            "brand": "Nike By You",
+            "gender": "Male",
+            "color": "Red",
+            "Price": 10495,
+            "size": [6, 7, 8, 9, 10]
+
+        },
+        {
+            "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/a6bc6e5b-f35b-4b55-b555-34cf4a676c54/overbreak-shoes-bt74Jc.png",
+            "name": "Nike Overbreak",
+            "brand": "Nike By You",
+            "gender": "Male",
+            "color": "Cream",
+            "Price": 13495,
+            "size": [6, 7, 8, 9, 10]
+
+        },
+        {
+            "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/d197cb86-b1a6-495e-8988-d5a36db25aea/air-force-1-experimental-shoes-bp4ZqX.png",
+            "name": "Nike Air Force 1 Experimental",
+            "brand": "Nike By You",
+            "gender": "Male",
+            "color": "Black",
+            "Price": 9495,
+            "size": [6, 7, 8, 9, 10]
+
+        },
+        {
+            "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/58903c0b-0afe-400e-8ac6-9bf3ccf940ba/air-max-pre-day-shoes-jMh2rB.png",
+            "name": "Nike Air Max Pre-Day",
+            "brand": "Nike By You",
+            "gender": "Male",
+            "color": "Black",
+            "Price": 11495,
+            "size": [6, 7, 8, 9, 10]
+        },
+        {
+            "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/b72d5987-443c-4a20-ba27-f98e711c5ab1/dunk-low-se-shoes-zmKqzw.png",
+            "name": "Nike Dunk",
+            "brand": "Nike By You",
+            "gender": "Female",
+            "color": "White",
+            "Price": 18495,
+            "size": [6, 7, 8, 9, 10]
+        },
+        {
+            "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/56cbf3f1-1004-468d-90c8-0c1738e2b7c2/dunk-high-lx-shoes-4gJ041.png",
+            "name": "Nike Dunk High LX",
+            "brand": "Nike By You",
+            "gender": "Female",
+            "color": "Cream",
+            "Price": 11495,
+            "size": [6, 7, 8, 9, 10]
+        },
+        {
+            "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/5e266a82-cc5e-48f2-becf-1b88776c991b/zoom-fly-4-road-running-shoes-HMG6C0.png",
+            "name": "Nike Zoom Fly 4",
+            "brand": "Nike By You",
+            "gender": "Female",
+            "color": "Black",
+            "Price": 15495,
+            "size": [6, 7, 8, 9, 10]
+        },
+        {
+            "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/b72d5987-443c-4a20-ba27-f98e711c5ab1/dunk-low-se-shoes-zmKqzw.png",
+            "name": "Nike Air Force 1 '07 LV8",
+            "brand": "Nike By You",
+            "gender": "Girls",
+            "color": "Black",
+            "Price": 8295,
+            "size": [6, 7, 8, 9, 10]
+        },
+        {
+            "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/99b5746b-3441-456d-80e3-a628a115b4d4/air-force-1-pixel-shoes-7wnvvn.png",
+            "name": "Nike Air Force 1 Pixel",
+            "brand": "Nike By You",
+            "gender": "Female",
+            "color": "Olive",
+            "Price": 8495,
+            "size": [6, 7, 8, 9, 10]
+        }
+       
+    ]
+}

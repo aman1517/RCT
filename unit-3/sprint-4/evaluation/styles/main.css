@@ -1,0 +1,27 @@
+#container {
+  width: 100%;
+  box-sizing: border-box;
+  display: flex;
+}
+#sidebar {
+  width: 20%;
+  background-color: rgb(206, 146, 255);
+  height: 100vh;
+  overflow-y: scroll;
+}
+#main {
+  width: 80%;
+  background-color: rgb(228, 250, 101);
+  height: 100vh;
+  overflow-y: scroll;
+}
+#main > div {
+  box-sizing: border-box;
+  display: flex;
+  height: 200px;
+  border-bottom: 2px solid grey;
+  padding: 10px;
+}
+#main > div > div > img {
+  width: 350px;
+}

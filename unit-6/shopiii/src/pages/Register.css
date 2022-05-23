@@ -1,0 +1,25 @@
+/* .box{
+background-image: url(https://st4.depositphotos.com/1455259/30981/i/1600/depositphotos_309814442-stock-photo-new-champion-full-length-of.jpg) ;
+} */
+
+.box{
+    background: linear-gradient(rgba(255,255, 255, 0.5),rgba(255,255, 255, 0.5)), url("https://st4.depositphotos.com/1455259/30981/i/1600/depositphotos_309814442-stock-photo-new-champion-full-length-of.jpg")center;
+
+}
+button:hover{
+    background-color: whitesmoke;
+    color: rgb(3, 109, 109);
+    font-weight: 900;
+}
+
+.loginbox{
+    background: linear-gradient(rgba(255,255, 255, 0.5),rgba(255,255, 255, 0.5)), url("https://wallpaperbat.com/img/431056-athlete-wallpaper-top-free-athlete-background.jpg")center;
+}
+
+.total{
+    font-weight: 900;
+}
+
+.checkoutback{
+    background: linear-gradient(rgba(255,255, 255, 0.6),rgba(255,255, 255, 0.5)), url("https://wallpaperbat.com/img/431056-athlete-wallpaper-top-free-athlete-background.jpg")center;
+}
